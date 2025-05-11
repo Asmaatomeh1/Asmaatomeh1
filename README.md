@@ -1,5 +1,6 @@
 ## Hi there 👋
-[LeetCode Profile](https://leetcode.com/u/Asmaa_Tomeh/)
+
+   ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=اسم_المستخدم) [LeetCode Profile](https://leetcode.com/u/Asmaa_Tomeh/)
 <!--
 **Asmaatomeh1/Asmaatomeh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
