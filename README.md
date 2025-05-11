@@ -1,7 +1,7 @@
 ## Hi there 👋
 
    ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Asmaa_Tomeh) 
-     [![Leetcode Stats](https://leetcard.jacoblin.cool/Asmaa_Tomeh)](https://leetcode.com/Asmaa_Tomeh/)[LeetCode Profile](https://leetcode.com/u/Asmaa_Tomeh/)
+   [LeetCode Profile](https://leetcode.com/u/Asmaa_Tomeh/)
 <!--
 **Asmaatomeh1/Asmaatomeh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
