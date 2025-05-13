@@ -6,16 +6,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/Asmaa_Tomeh)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Asmaatomeh)
 
-io/badge/-HTML5-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-
-## روابط مهمة:
-- [موقعي الشخصي](https://example.com)
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [حساب Codeforces](https://codeforces.com/profile/yourname)
 
    ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Asmaa_Tomeh) 
 
