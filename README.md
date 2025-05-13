@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Asmaa Tomeh](./assets/CEC6276E-1AE2-45A3-B9CC-DF99D5FD73B0.jpeg)
+
 
 ## Competitive Programming Profiles:
 
