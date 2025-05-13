@@ -6,6 +6,8 @@
 #            Hi there 👋 , I'm Asmaa Tomeh
 
 
+
+
 #### computer Engineer
 
 ## Competitive Programming Profiles:
@@ -21,7 +23,9 @@
    ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Asmaa_Tomeh) 
 
    
-   [LeetCode Profile](https://leetcode.com/u/Asmaa_Tomeh/)
+  ## GitHub Stats
+![Asmaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asmaatomeh1&show_icons=true&theme=radical)   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG15dHFtY2VmbHluNDh4YTJmdDh2OXliM2Y5bXJsNTgwaGhreXN5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="200"/>
+
 <!--
 **Asmaatomeh1/Asmaatomeh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
