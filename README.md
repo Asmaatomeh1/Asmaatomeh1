@@ -1,10 +1,12 @@
 ## Hi there 👋
 
 
-## I'm Asmaa Tomeh:
-- Problem Solver
-## المهارات:
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+## Competitive Programming Profiles:
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/your_username)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your_username)
+
+io/badge/-HTML5-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
