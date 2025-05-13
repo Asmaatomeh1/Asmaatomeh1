@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![820B2BEF-93DE-4979-93A0-E56A36747635](https://github.com/user-attachments/assets/193aa4a0-e90b-4898-8ac3-ff2942310d90)
+![3AA719BA-9944-4450-9641-2A36751FE937](https://github.com/user-attachments/assets/3ff9abe5-0d7c-49ff-8ba6-80e678310904)
 
 
 ## Competitive Programming Profiles:
