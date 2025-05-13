@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-   # مرحبًا، أنا أحمد!
 
-## أنا طالب هندسة حاسوب ومهتم بـ:
-- تطوير الويب (Full-Stack)
-- تطبيقات Flutter
-- البرمجة التنافسية
-
+## I'm Asmaa Tomeh:
+- Problem Solver
 ## المهارات:
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
